@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)
-![Status](https://img.shields.io/badge/Status-Completed-success)
 
 This repository contains a "from-scratch" implementation of a **Neural Machine Translation (NMT)** system capable of translating English sentences into French.
 
@@ -65,12 +64,6 @@ The project includes a detailed analysis of NMT limitations:
 * **Greedy Decoding vs. Beam Search:** Discussion on why greedy methods are locally optimal but globally suboptimal.
 * **The Coverage Problem:** Analyzing repetition and omission errors inherent to standard attention mechanisms.
 * **Contextual Embeddings:** Comparison with modern approaches (ELMo, BERT) to handle polysemy (e.g., the word "mean" in different contexts).
-
-## 👤 Author
-
-**Maxence Debes**
-* [LinkedIn](https://www.linkedin.com/in/maxence-debes/)
-* [GitHub](https://github.com/maxencedebes)
 
 ---
 *This lab was originally designed by Prof. Michalis Vazirgiannis, Dr. Hadi Abdine, and Yang Zhang for the APM 53674 course.*
