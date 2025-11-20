@@ -5,7 +5,7 @@
 
 This repository contains a "from-scratch" implementation of a **Neural Machine Translation (NMT)** system capable of translating English sentences into French.
 
-This project was developed as part of the **ALTeGraD (Advanced Learning for Text and Graph Data)** course, part of the **Master MVA (Mathématiques Vision Apprentissage)** at **École Polytechnique (l'X)** within the *Institut Polytechnique de Paris*. It explores Recurrent Neural Networks (RNNs) and the implementation of Global Attention mechanisms.
+This project was developed as part of the **ALTeGraD (Advanced Learning for Text and Graph Data)** course, part of the **Master MVA (Mathématiques Vision Apprentissage)** at **École Polytechnique** within the *Institut Polytechnique de Paris*. It explores Recurrent Neural Networks (RNNs) and the implementation of Global Attention mechanisms.
 
 ## 🧠 Model Architecture
 
