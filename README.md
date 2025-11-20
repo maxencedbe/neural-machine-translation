@@ -46,7 +46,7 @@ During inference, the model computes **attention weights** ($\alpha_{t}$), deter
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/neural-machine-translation-rnn.git](https://github.com/YOUR_USERNAME/neural-machine-translation-rnn.git)
+    git clone [https://github.com/maxencedbe/neural-machine-translation-rnn.git](https://github.com/maxencedbe/neural-machine-translation-rnn.git)
     cd neural-machine-translation-rnn
     ```
 
